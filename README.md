@@ -1,7 +1,7 @@
 
 
 <div align="center">
-    <h1>🛠️ HindiPoetGPT: Unleashing the Hindi Poetry with AI! 🤖</h1>
+    <h1>🛠️ HindiPoetGPT: A Hindi Poetry generator ! 🤖</h1>
 </div>
 
 ---
