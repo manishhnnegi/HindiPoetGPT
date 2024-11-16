@@ -1,18 +1,17 @@
 
 
 <div align="center">
-    <h1>🛠️ HindiPoetGPT: A Hindi Poetry generator ! 🤖</h1>
+    <h3>🛠️ HindiPoetGPT: A Hindi Poetry generator ! 🤖</h3>
 </div>
 
 ---
 
-### 📜 Introduction
+#### 📜 Introduction
 
 HindiPoetGPT is a groundbreaking project that harnesses the power of a Generative Pre-trained Transformer (GPT) to create original Hindi poetry. By training the model on a diverse and rich dataset of Hindi poetic literature, this project aspires to generate creative, evocative, and culturally resonant poetry that reflects the depth and beauty of the Hindi language.
-
 ---
 
-## 🌟 Features  
+### 🌟 Features  
 - **AI-Generated Hindi Poetry**: Original compositions inspired by traditional and modern Hindi poetic styles.  
 - **Diverse Inspiration**: Trained on classical, modern, and contemporary Hindi poetic works.  
 - **Creative Output**: Generates poems that emulate human-like creativity and emotion.  
@@ -20,7 +19,7 @@ HindiPoetGPT is a groundbreaking project that harnesses the power of a Generativ
 
 ---
 
-## 🛠️ Technologies Used  
+### 🛠️ Technologies Used  
 - **Python**: For implementing the GPT model.  
 - **Transformers Library**: From Hugging Face for fine-tuning the GPT model.  
 - **Natural Language Processing (NLP)**: To preprocess and analyze Hindi poetic text.  
@@ -28,13 +27,13 @@ HindiPoetGPT is a groundbreaking project that harnesses the power of a Generativ
 
 ---
 
-## 🚀 Getting Started  
+### 🚀 Getting Started  
 
-### Prerequisites  
+#### Prerequisites  
 - Python 3.8 or higher  
 - Pip package manager  
 
-### Installation  
+#### Installation  
 1. Clone the repository:  
    ```bash
    git clone https://github.com/YourUsername/HindiPoetGPT.git
@@ -45,7 +44,7 @@ HindiPoetGPT is a groundbreaking project that harnesses the power of a Generativ
    pip install -r requirements.txt
    ```  
 
-### Usage  
+#### Usage  
 1. Train the model:  
    ```bash
    python train_model.py
@@ -58,7 +57,7 @@ HindiPoetGPT is a groundbreaking project that harnesses the power of a Generativ
 
 ---
 
-## 📂 Project Structure  
+### 📂 Project Structure  
 ```plaintext
 HindiPoetGPT/  
 ├── hindi_data/              # Dataset of Hindi poetic literature   
@@ -70,29 +69,29 @@ HindiPoetGPT/
 
 ---
 
-## 🎯 Goals  
+### 🎯 Goals  
 1. **Promote Hindi Literature**: Bring traditional and modern Hindi poetry to a broader audience using AI.  
 2. **Bridge Technology and Art**: Merge the computational capabilities of AI with the emotive art of poetry.  
 3. **Foster Creativity**: Enable users to create personalized poetic compositions.  
 
 ---
 
-## 🤝 Contributing  
+### 🤝 Contributing  
 Contributions are welcome! Whether it's improving the model, expanding the dataset, or enhancing features, feel free to submit a pull request or open an issue.
 
 ---
 
-## 📜 License  
+### 📜 License  
 This project is licensed under the [MIT License](LICENSE).  
 
 ---
 
-## ❤️ Acknowledgments  
+### ❤️ Acknowledgments  
 HindiPoetGPT draws inspiration from the vast and rich history of Hindi poetry. A special thanks to all contributors of open-source tools and datasets that made this project possible.  
 
 ---
 
-## 🌐 Connect with Us  
+### 🌐 Connect with Us  
 - GitHub: [YourUsername](https://github.com/YourUsername)  
 - Twitter: [@YourHandle](https://twitter.com/YourHandle)  
 - Email: youremail@example.com  
@@ -102,4 +101,19 @@ HindiPoetGPT draws inspiration from the vast and rich history of Hindi poetry. A
 **Let the beauty of Hindi poetry transcend boundaries with HindiPoetGPT!**
 ```  
 
-Feel free to modify the links and placeholders to match your details. Let me know if you'd like further tweaks!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
