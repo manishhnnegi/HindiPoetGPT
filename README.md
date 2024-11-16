@@ -1,13 +1,12 @@
 
 
 <div align="center">
-    <h1>🛠️ HindiPoetGPT: A hindi poet! 🤖</h1>
+    <h1>🛠️ HindiPoetGPT: Unleashing the Hindi Poetry with AI! 🤖</h1>
 </div>
 
 ---
 
 ### 📜 Introduction
-*Unleashing the Beauty of Hindi Poetry with AI*  
 
 HindiPoetGPT is a groundbreaking project that harnesses the power of a Generative Pre-trained Transformer (GPT) to create original Hindi poetry. By training the model on a diverse and rich dataset of Hindi poetic literature, this project aspires to generate creative, evocative, and culturally resonant poetry that reflects the depth and beauty of the Hindi language.
 
