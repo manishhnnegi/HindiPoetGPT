@@ -12,18 +12,9 @@ HindiPoetGPT is a project that harnesses the power of a Generative Pre-trained T
 
 ---
 
-### 🌟 Features  
-- **AI-Generated Hindi Poetry**: Original compositions inspired by traditional and modern Hindi poetic styles.  
-- **Diverse Inspiration**: Trained on classical, modern, and contemporary Hindi poetic works.  
-- **Creative Output**: Generates poems that emulate human-like creativity and emotion.  
-- **Customizable Themes**: Supports user-defined inputs to guide poetic themes and styles.  
-
----
-
 ### 🛠️ Technologies Used  
 - **Python**: For implementing the GPT model.  
-- **Transformers Library**: From Hugging Face for fine-tuning the GPT model.  
-- **Natural Language Processing (NLP)**: To preprocess and analyze Hindi poetic text.  
+- **GPT implementation using pytorch**: implemented GPT Architecture from scratch in simplified form.  
 - **Hindi Language Datasets**: Compiled from classical and modern Hindi poetry.  
 
 ---
@@ -70,6 +61,13 @@ HindiPoetGPT/
 
 ---
 
+### 📝 Git Commands
+
+Basic git workflow:
+```bash
+git add .
+git commit -m "description of changes"
+git push origin main
 
 
 
