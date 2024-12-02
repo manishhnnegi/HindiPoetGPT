@@ -8,7 +8,8 @@
 
 #### 📜 Introduction
 
-HindiPoetGPT is a groundbreaking project that harnesses the power of a Generative Pre-trained Transformer (GPT) to create original Hindi poetry. By training the model on a diverse and rich dataset of Hindi poetic literature, this project aspires to generate creative, evocative, and culturally resonant poetry that reflects the depth and beauty of the Hindi language.
+HindiPoetGPT is a project that harnesses the power of a Generative Pre-trained Transformer (GPT) to create original Hindi poetry. By training the model on a diverse and rich dataset of Hindi poetic literature, this project aspires to generate creative, evocative, and culturally resonant poetry that reflects the depth and beauty of the Hindi language.
+
 ---
 
 ### 🌟 Features  
@@ -51,7 +52,7 @@ HindiPoetGPT is a groundbreaking project that harnesses the power of a Generativ
    ```  
 2. Generate a poem:  
    ```bash
-   python generate_poem.py --theme "प्रकृति" --style "रोमांटिक"
+   python generate_poem.py 
    ```  
 3. Enjoy the poetic creations!  
 
@@ -69,37 +70,6 @@ HindiPoetGPT/
 
 ---
 
-### 🎯 Goals  
-1. **Promote Hindi Literature**: Bring traditional and modern Hindi poetry to a broader audience using AI.  
-2. **Bridge Technology and Art**: Merge the computational capabilities of AI with the emotive art of poetry.  
-3. **Foster Creativity**: Enable users to create personalized poetic compositions.  
-
----
-
-### 🤝 Contributing  
-Contributions are welcome! Whether it's improving the model, expanding the dataset, or enhancing features, feel free to submit a pull request or open an issue.
-
----
-
-### 📜 License  
-This project is licensed under the [MIT License](LICENSE).  
-
----
-
-### ❤️ Acknowledgments  
-HindiPoetGPT draws inspiration from the vast and rich history of Hindi poetry. A special thanks to all contributors of open-source tools and datasets that made this project possible.  
-
----
-
-### 🌐 Connect with Us  
-- GitHub: [YourUsername](https://github.com/YourUsername)  
-- Twitter: [@YourHandle](https://twitter.com/YourHandle)  
-- Email: youremail@example.com  
-
----
-
-**Let the beauty of Hindi poetry transcend boundaries with HindiPoetGPT!**
-```  
 
 
 
